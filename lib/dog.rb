@@ -24,6 +24,6 @@ class Dog
     @breed = new_breed
   end
   
-  fido = Dog.new("Fido")
+  mutt = Dog.new("Mutt")
   
 end
