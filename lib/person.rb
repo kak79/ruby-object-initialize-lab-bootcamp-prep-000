@@ -8,6 +8,6 @@ class Person
     @name
   end 
    
-  beyonce = Person.new("Beyonce")
+  #beyonce = Person.new("Beyonce")
   
 end
